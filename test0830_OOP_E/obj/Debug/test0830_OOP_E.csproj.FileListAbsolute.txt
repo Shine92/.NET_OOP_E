@@ -1,0 +1,9 @@
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\bin\Debug\test0830_OOP_E.exe.config
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\bin\Debug\test0830_OOP_E.exe
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\bin\Debug\test0830_OOP_E.pdb
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\obj\Debug\test0830_OOP_E.csprojResolveAssemblyReference.cache
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\obj\Debug\test0830_OOP_E.Form1.resources
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\obj\Debug\test0830_OOP_E.Properties.Resources.resources
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\obj\Debug\test0830_OOP_E.csproj.GenerateResource.Cache
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\obj\Debug\test0830_OOP_E.exe
+D:\LAB_E\test0830_OOP_E\test0830_OOP_E\obj\Debug\test0830_OOP_E.pdb
